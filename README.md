@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Angular, TypeScript, Rxjs, Ngx-Formly**
-- 🌱 I’m currently learning **React, Node, MongoDB**
+- 🌱 I’m currently learning **React, Node, MongoDB, MySQL**
 - 👯 I’m looking to collaborate on **Ngx-Formly**
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: **manoj.chaurasiya@gmail.com**
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Let's connect 
+- ⚡ Fun fact: Let's connect to learn python
 
