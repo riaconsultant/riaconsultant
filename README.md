@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Ngx-Formly** <br/>
 - 🤔 Have 13+ years of experience in web development. <br/>
 - 💬 Ask me about **https://manojchaurasiya.com** <br/>
-- 📫 How to reach me: **manoj.chaurasiya@gmail.com** <br/>
+- 📫 Want to stable your product, issues, support or tech expertise then you are right place let's text me and connect: **manoj.chaurasiya@gmail.com** <br/>
 - 😄 Philosophy: life moves on like water... <br/>
 - ⚡ Fun fact: Let's connect to learn Python and UI stuff. <br/>
 - 🧲 Ready for any tech learning as a Challenge for Solution purposes. <br/><br/>
