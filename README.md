@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Angular, TypeScript, Rxjs, Ngx-Formly, Cypress** <br/>
 - 🌱 I’m currently learning **React, Node, MongoDB, MySQL** <br/>
 - 👯 I’m looking to collaborate on **Ngx-Formly** <br/>
-- 🤔 Have 13+ years of experience in web development. <br/>
+- 🤔 Have 15+ years of experience in web development. <br/>
 - 💬 Ask me about **https://manojchaurasiya.com** <br/>
 - 📫 Want to stable your product, issues, support or tech expertise then you are right place let's text me and connect: **manoj.chaurasiya@gmail.com** <br/>
 - 😄 Philosophy: life moves on like water... <br/>
