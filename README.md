@@ -1,5 +1,6 @@
 ### Hi there 👋
 <hr/>
+- 🤩 Exploring the AI tools, MCP server and Prompt Engineering <br/>
 - 📕 I have worked extensively on Custom development for **SAPUI5, Fiori, jQuery, Adobe Flex, PHP, CakePHP, and even Visual Basic 6.0**.<br/>
 - 🔭 I’m currently working on **Angular, TypeScript, Rxjs, Ngx-Formly, Cypress** <br/>
 - 🌱 I’m currently learning **React, Node, MongoDB, MySQL** <br/>
