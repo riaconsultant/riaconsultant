@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React, Node, MongoDB, MySQL** <br/>
 - 👯 I’m looking to collaborate on **Ngx-Formly** <br/>
 - 🤔 Have 16+ years of experience in web development. <br/>
-- 💬 Ask me about **https://manojchaurasiya.com** <br/>
+- 💬 Ask me about **https://manojchaurasiya.com <br/>
 - 📫 Want to stabilize your product, issues, support, or tech expertise? Then you are in the right place. Let's text me and connect: **manoj.chaurasiya@gmail.com** <br/>
 - 😄 Philosophy: life moves on like water... <br/>
 - ⚡ Fun fact: Let's connect to learn Python and UI stuff. <br/>
